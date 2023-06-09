@@ -1,0 +1,4 @@
+La funcionalidad de login esta modificada para hacer pruebas por lo que admite solo como password la palabra "vacia"
+
+usuario: frangesgonzalez@gmail.com
+password: vacia
